@@ -29,6 +29,7 @@ create_table_query1 = """
                             "COUNTRY" VARCHAR2(25) 
                             );
                         """
+                        
 create_table_query2 = """
                         CREATE TABLE IF NOT EXISTS   "CUSTOMER" 
                         (	"CUST_CODE" VARCHAR2(6) NOT NULL PRIMARY KEY, 
