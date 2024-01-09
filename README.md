@@ -4,3 +4,11 @@ This repo contains code snippets and datasets used in my Medium article "A Begin
 
 ![](./img/agent_example.png)
 
+## Used Libraries and Tools
+
+* Python: 
+  * Sqlite3
+  * LangChain
+  
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
